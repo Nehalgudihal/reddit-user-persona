@@ -27,7 +27,6 @@ cd reddit-user-persona
 2. Set up virtual environment (recommended):
 python -m venv venv
 venv\Scripts\activate     # On Windows
-# OR
 source venv/bin/activate  # On macOS/Linux
 
 3. Install dependencies:
